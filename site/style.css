@@ -4,6 +4,7 @@
   border:2px solid black;
   display: inline-block;
   text-align: center;
+  overflow:hidden;
 /*   remove link formatting */
   color: inherit;
   text-decoration:inherit;
