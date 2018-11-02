@@ -1,0 +1,14 @@
+.sd-node-icon-button {
+  width:100px;
+  border-radius:20px;
+  border:2px solid black;
+  display: inline-block;
+  text-align: center;
+/*   remove link formatting */
+  color: inherit;
+  text-decoration:inherit;
+}
+
+.sd-node-icon-button > img {
+  width:inherit;
+}
